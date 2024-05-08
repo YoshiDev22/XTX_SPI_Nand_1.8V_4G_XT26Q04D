@@ -1,0 +1,1 @@
+XTX_SPI_Nand_1.8V_4G_XT26Q04D Datasheet
